@@ -1,0 +1,17 @@
+{
+  "name": "qa-portfolio",
+  "version": "1.0.0",
+  "description": "QA Portfolio TypeScript Project",
+  "main": "dist/day1",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/day1",
+    "dev": "node run.js"
+  },
+  "keywords": ["typescript", "qa"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.0"
+  }
+}
