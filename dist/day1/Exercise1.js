@@ -1,4 +1,5 @@
 "use strict";
+//Exercise 1: Variables & Types
 /**
  * VARIABLE DECLARATION SECTION
  * ============================
